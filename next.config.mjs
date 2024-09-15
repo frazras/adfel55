@@ -8,6 +8,7 @@ const nextConfig = {
     return config;
   },
   distDir: 'build', // Add this line to specify the build directory
+  output: 'export', // Add this line for static export
 };
 
 export default nextConfig;
