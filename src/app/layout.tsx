@@ -17,8 +17,7 @@ export const metadata: Metadata = {
   title: "Advent Fellowship 55th Anniversary",
   description: "Celebrate 55 years of Advent Fellowship - Renewed by His Grace, Sustained by His Spirit",
   keywords: "Advent Fellowship, 55th Anniversary, Church Celebration, Chapel Day, Singspiration, Brunch, Potluck, Hike, Blue Mountains, 55th Anniversary Celebration",
-  author: "Advent Fellowship",
-  openGraph: {
+    openGraph: {
     title: "Advent Fellowship 55th Anniversary",
     description: "Join us in celebrating 55 years of faith and community",
     images: [
