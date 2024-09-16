@@ -80,22 +80,22 @@ export function EnhancedLandingPageComponent() {
               {
                 date: "October 4-5",
                 title: "Singspiration",
-                description: "Two evenings of uplifting music and praise celebrating our anniversary through song."
+                description: "Two evenings of uplifting music and praise celebrating our anniversary through music."
               },
               {
                 date: "October 6",
                 title: "Brunch/Potluck",
-                description: "Celebrate our 55th Anniversary and Adfel traditions with a community gathering."
+                description: "Celebrate our 55th Anniversary and Adfel traditions with good food and fellowship."
               },
               {
                 date: "October 19-21",
                 title: "Blue Mountain Hike",
-                description: "Experience God's creation on a three-day hike through the beautiful Blue Mountains."
+                description: "Experience God's creation on a scenic hike through the beautiful Blue Mountains."
               },
               {
                 date: "November 15-16",
                 title: "Chapel Weekend",
-                description: "A special two-day event celebrating our chapel and its significance in our community."
+                description: "A special two-day event celebrating our 55th Anniversary and the impact of the fellowship on the campuses."
               }
             ].map((event, index) => (
               <motion.div
