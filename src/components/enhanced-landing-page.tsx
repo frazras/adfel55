@@ -141,7 +141,7 @@ export function EnhancedLandingPageComponent() {
           <div className="flex flex-col md:flex-row justify-center items-center gap-8">
             <div className="flex items-center gap-3 text-lg md:text-xl">
               <Phone size={24} />
-              <span>1876-555-5555</span>
+              <span>1-876-867-5475</span>
             </div>
             <div className="flex items-center gap-3 text-lg md:text-xl">
               <Mail size={24} />
